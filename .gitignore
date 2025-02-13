@@ -1,0 +1,23 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore the test directory
+test/
+
+# Ignore Firebase configuration and logs
+.firebase-debug.log
+.firebase.json
+.firebaserc
+
+# Ignore GitHub workflows
+.github/
+venv/
+
+# Ignore yarn lock file
+yarn.lock
+
+# Ignore other specific files
+linux_signing_key.pub
+404.html
+index.html
+firebaseServiceAccountKey.json
